@@ -30,7 +30,7 @@ Helpers assist new members in game, on the group wall and in the Discord. You mu
 ## Audio Engineer
 Audio engineers are able to voice act, compose music, record sound effects or remix tracks.
 
-- Your application must include at least t**2** examples of your work.
+- Your application must include at least **2** examples of your work.
 
 
 ## Artist
