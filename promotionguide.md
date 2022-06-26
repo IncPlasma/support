@@ -34,7 +34,7 @@ Audio engineers are able to voice act, compose music, record sound effects or re
 
 
 ## Artist
-Artists are people who are able to create art (concept drawings, paintings, digital drawings), decals, advertisements, textures, animations, etc...
+Artists are people who are able to create art (concept drawings, paintings, digital drawings), decals, advertisements, textures, animations, etc.
 
 - Your application must include at least **2** examples of your work.
 
