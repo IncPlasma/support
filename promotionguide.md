@@ -20,26 +20,23 @@ Send all applications via DMs to a Supervisor. You can find them in our Discord 
 
 
 ## Helper
-Helpers assist new members in game, on the group wall and in the Discord.
+Helpers assist new members in game, on the group wall and in the Discord. You must:
 
-Requirements:
 - Have a good understanding of Plasma's games and rules, both in-game and in our Discord servers.
 - Be mature.
-- Your application must include at least four screenshot examples of you helping people - whether it be on our group walls, or ingame/in the Discord.
+- Your application must include at least **4** screenshot examples of you helping people - whether it be on our group walls, or ingame/in the Discord.
 
 
 ## Audio Engineer
 Audio engineers are able to voice act, compose music, record sound effects or remix tracks.
 
-Requirements:
-- Your application must include at least two examples of your work.
+- Your application must include at least t**2** examples of your work.
 
 
 ## Artist
 Artists are people who are able to create art (concept drawings, paintings, digital drawings), decals, advertisements, textures, animations, etc...
 
-Requirements:
-- Your application must include at least two examples of your work.
+- Your application must include at least **2** examples of your work.
 
 
 ## Builder
