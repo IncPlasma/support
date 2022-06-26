@@ -38,23 +38,16 @@ Artists are people who are able to create art (concept drawings, paintings, digi
 Requirements:
 - Your application must include at least two examples of your work.
 
-## Novice Builder
-Novice Builders are people who are able to create simple models and structures.
 
-Requirements:
-- Your application must include at least two examples of your work.
+## Builder
+Builders are people within Plasma who are able to create structures, games and other objects within Roblox Studio or various other 3D modelling software, such as Blender. Building basic structures within a Roblox game (for example, using Btools) is also acceptable, although is generally harder to be accepted with. Intermediate/Advanced builders may be invited to work in Plasma related projects. When applying for any level of Builder, if your build does not meet the desired tier, you may still be awarded the builder rank of another tier. For example, if you applied for Advanced builder, however the work was not considered detailed enough, you may still be voted for Intermediate builder. Currently, Builders are divided into 3 tiers:
 
-## Intermediate Builder
-Intermediate Builders are people who are able to create detailed models and structures.
+- Novice- Awarded to people who can create simple models and structures, your application will require at least 2 examples of your work. Novice builds only have the most basic details, for instance a car may consist of basic cylinder wheels, with a texture overlay. The basic shape of a car would be present, although with few other details- wingmirrors or an angled windshield for example.
 
-Requirements:
-- Your application must include at least four examples of your work.
+- Intermediate- Awarded to people who can create more detailed models and structures, your application will require at least 4 examples of your work. Intermediate builds would include more details, for instance a car would have a proper interior- with seats depicted, including a steering wheel, wheels which are given spokes, and even more detailed engine work
 
-## Advanced Builder
-Advanced Builders are people who are able to create complex models and structures. They may be invited to contribute to offical Plasma Inc. projects.
+-	Advanced- Awarded to people who can create complex and intricate models and structures, your application will require at least 6 examples of your work. Advanced builds are usually much larger, with visible details all around, for example a car would have a full engine block accurately depicted in scale, with a full underbody detail made out. There would be pipework underneath and a full interior, with seat lining, and a full dashboard with dials and readouts.
 
-Requirements:
-- Your application must include at least six examples of your work.
 
 ## Novice Scripter
 Novice Scripters are people who are able to write simple scripts in Lua.
