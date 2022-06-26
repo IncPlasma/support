@@ -44,7 +44,7 @@ Builders are people within Plasma who are able to create structures, games and o
 
 - Novice- Awarded to people who can create simple models and structures, your application will require at least 2 examples of your work. Novice builds only have the most basic details, for instance a car may consist of basic cylinder wheels, with a texture overlay. The basic shape of a car would be present, although with few other details- wingmirrors or an angled windshield for example.
 
-- Intermediate- Awarded to people who can create more detailed models and structures, your application will require at least 4 examples of your work. Intermediate builds would include more details, for instance a car would have a proper interior- with seats depicted, including a steering wheel, wheels which are given spokes, and even more detailed engine work
+- Intermediate- Awarded to people who can create more detailed models and structures, your application will require at least 4 examples of your work. Intermediate builds would include more details, for instance a car would have a proper interior- with seats depicted, including a steering wheel, wheels which are given spokes, and even more detailed engine work.
 
 -	Advanced- Awarded to people who can create complex and intricate models and structures, your application will require at least 6 examples of your work. Advanced builds are usually much larger, with visible details all around, for example a car would have a full engine block accurately depicted in scale, with a full underbody detail made out. There would be pipework underneath and a full interior, with seat lining, and a full dashboard with dials and readouts.
 
@@ -53,7 +53,7 @@ Builders are people within Plasma who are able to create structures, games and o
 Novice Scripters are people who are able to write simple scripts in Lua.
 
 Requirements:
-- Your application musct include at least two examples of your work.
+- Your application must include at least two examples of your work.
 - Your application must include examples of your code, either uploaded to a paste website, on GitHub or sent as a message.
 
 ## Intermediate Scripter
