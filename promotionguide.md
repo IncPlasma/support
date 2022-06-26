@@ -75,7 +75,7 @@ You cannot apply for this rank.
 Supervisors are responsible for handling promotions, as well as helping new members and moderating messages on the group wall and in the Discord server.
 
 Requirements:
-- You must have held a rank about member in Plasma.
+- You must have held a rank above member in Plasma.
 - You must be mature.
 - You must be well known and active in the community.
 
