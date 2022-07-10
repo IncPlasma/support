@@ -24,17 +24,18 @@ Helpers assist new members in game, on the group wall and in the Discord. You mu
 
 - Have a good understanding of Plasma's games and rules, both in-game and in our Discord servers.
 - Be mature.
-- Your application must include at least **4** screenshot examples of you helping people - whether it be on our group walls, or ingame/in the Discord.
+- Your application must include at least **4** screenshot examples of you helping people - whether it be on our group walls, or ingame/in the Discord. Make sure to help in a variety of ways!
 
 
 ## Audio Engineer
-Audio engineers are able to voice act, compose music, record sound effects or remix tracks.
+Audio engineers are able to voice act, compose music, record sound effects or remix tracks. Evidence of skill in manipulating and changing the audio must be evidenced, as a result, only recording some basic voice lines will not do. for example, making the voice sound more like an announcement by digitlising it and adding custom sound effects would be more likely to have your work accepted.
 
 - Your application must include at least **2** examples of your work.
 
 
 ## Artist
-Artists are people who are able to create art (concept drawings, paintings, digital drawings), decals, advertisements, textures, animations, etc.
+Artists are people who are able to create art (concept drawings, paintings, digital drawings), decals, advertisements, textures, animations, etc. These can
+Any work used that is not directly your own (Images taken from a Google search) **must** be referenced with the exact source (website/artist) they originally came from. Relying heavily on other people's work will make your application less likely to be accepted.
 
 - Your application must include at least **2** examples of your work.
 
@@ -48,6 +49,8 @@ Builders are people within Plasma who are able to create structures, games and o
 
 -	**Advanced**- Awarded to people who can create complex and intricate models and structures, your application will require at least **6** examples of your work. Advanced builds are usually much larger, with visible details all around, for example a car would have a full engine block accurately depicted in scale, with a full underbody detail made out. There would be pipework underneath and a full interior, with seat lining, and a full dashboard with dials and readouts.
 
+Any work used that is not directly your own (Free models) **must** be referenced. Relying heavily on other people's work will make your application less likely to be accepted.
+
 
 ## Scripter
 Scripters are people within Plasma who are able to write scripts in the programming language Lua. The script can be written in any application capable of supporting Lua (such as Garry’s mod, web servers or Discord bots for example). At least **1** example should be within Roblox, however the other examples may be on other forms of software if up to a good standard. Intermediate/Advanced scripters may be invited to work in Plasma Inc. related projects. When applying for any level of Scripter, if your script does not meet the desired tier, you may still be awarded the scripter rank of another tier. For example, if you applied for Advanced scripter, however the work was not considered complex enough, you may still be voted for Intermediate Scripter. When applying for all tiers of scripter, your application must include examples of the code used, either uploaded to a paste website, on Github, or sent as a message/screenshot. Currently, Scripters are divided into 3 tiers:
@@ -57,6 +60,8 @@ Scripters are people within Plasma who are able to write scripts in the programm
 - **Intermediate**- Awarded to people who can make more complex scripts. Your application will require at least **4** examples of your work. Intermediate scripts usually can perform more specific functions, such as gun handling mechanics and interface system with custom movements and firing animations, or a Discord bot which allows for automatic rank verification.
 
 - **Advanced**- Awarded to people who can make highly complex and unique scripts. Your application will require at least **6** examples of your work. Advanced scripts can sometimes consist of entire games, which include examples of GUI's and 3-dimensional and immersive gameplay experience, for example a realistic 3-dimensional flight simulator with functional gravity, collision and gameplay elements.
+
+Any work used that is not directly your own (Free models) **must** be referenced. Relying heavily on other people's work will make your application less likely to be accepted.
 
 
 ## Honoured Member
